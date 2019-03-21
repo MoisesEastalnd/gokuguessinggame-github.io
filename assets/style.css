@@ -1,0 +1,38 @@
+
+body{
+    font-size: 60px;
+    color: rgb(255, 251, 10);
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    font-family: 'Rock Salt', cursive;
+    font-family: 'Shojumaru', cursive;
+    font-family: 'Germania One', cursive;
+    background-image: url("https://stmed.net/sites/default/files/dragon-ball-wallpapers-25823-5323467.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.fusionearring{
+    width: 100px;
+    height: 100px;
+}
+
+.senzubeans{
+    width: 100px;
+    height: 100px;
+}
+
+.dragonballs{
+    width: 100px;
+    height: 100px;
+}
+
+.riceball{
+    width: 100px;
+    height: 100px;
+}
+
+#dbzitems{
+    width: 100px;
+    height: 100px;
+}
